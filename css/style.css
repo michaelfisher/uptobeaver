@@ -1,0 +1,148 @@
+#header-bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: rgba(256,256,256,0.5);
+	/*border-radius: 0 0 6px 6px;*/
+	box-shadow: rgba(0,0,0,0.5) 0 0 10px;
+}
+
+#get-estimate-btn {
+	float: right;
+	margin: 10px;
+	background-color: #ffffff;
+	color: #333333;
+	font-weight: bold;
+}
+
+.cover {
+	margin-top: 125px;
+	margin-bottom: 35px;
+}
+
+.cover-heading {
+	font-family: "Amatic Bold";
+	font-size: 10em;
+}
+
+#cover-logo {
+	width: 65%;
+}
+
+.lead {
+	/*background-color: rgba(0,0,0,0.5);*/
+	text-align: center;
+	font-family: 'Latin Modern Mono Regular';
+	font-size: 2em;
+}
+
+.lead p {
+	margin: 0;
+}
+
+.definition {
+	margin: 50px;
+}
+
+.def-list {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	text-align: left;
+}
+
+.def-type {
+	font-size: 0.65em;
+}
+
+.def-entry {
+
+}
+
+.def-example {
+	font-size: 0.65em;
+}
+
+.lead ul {
+	list-style: none;
+}
+
+#contact-modal, #estimate-modal {
+	text-shadow: none;
+}
+
+#contact-modal-label, #estimate-modal-label {
+	font-weight: bold;
+	color: #555555;
+}
+
+#contact-form .form-group, #estimate-form .form-group {
+	text-align: left;
+}
+
+#contact-form label, #estimate-form label {
+	color: #555555;
+}
+
+#contact-form .small, #estimate-form .small {
+	margin-top: -5px;
+	color: #808080;
+}
+
+#contact-form #submit, #estimate-form #submit {
+	width: 45%;
+	padding: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+#contact-form #antispam, #estimate-form #antispam {
+	display: none;
+}
+
+#success-msg {
+	margin-top: 50px;
+	color: #555555;
+	text-shadow: none;
+}
+
+#success-msg .panel-heading {
+	font-weight: bold;
+}
+
+#success-msg .alert-link {
+	font-weight: bold;
+}
+
+#fail-msg {
+	margin-top: 50px;
+	color: #555555;
+	text-shadow: none;
+}
+
+#fail-msg #try-again {
+	font-weight: bold;
+}
+
+#fail-msg .alert-link {
+	font-weight: bold;
+}
+
+#spam-msg {
+	text-shadow: none;
+}
+
+#spam-msg .alert-link {
+	font-weight: bold;
+}
+
+.ui-datepicker {
+	text-shadow: none;
+}
+
+.ui-datepicker-header {
+	background: none;
+	background-color: #466480;
+	border: 1px solid #2c3c4c;
+}
