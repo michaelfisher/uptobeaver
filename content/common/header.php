@@ -31,7 +31,7 @@
 		<link href="css/style.css" rel="stylesheet">
 
 		<!--Custom fonts-->
-		<link href="fonts/amatic.css" rel="stylesheet">
+		<link href="fonts/oldnewspapertypes.css" rel="stylesheet">
 		<link href="fonts/latin-modern-mono-regular.css" rel="stylesheet">
 
 		<!--HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries-->

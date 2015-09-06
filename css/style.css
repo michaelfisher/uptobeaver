@@ -21,12 +21,12 @@
 }
 
 .cover-heading {
-	font-family: "Amatic Bold";
-	font-size: 10em;
+	font-family: "Old Newspaper Types";
+	font-size: 5em;
 }
 
 #cover-logo {
-	width: 65%;
+	width: 40%;
 }
 
 .lead {
@@ -45,7 +45,7 @@
 }
 
 .def-list {
-	width: 80%;
+	width: 75%;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 0;
